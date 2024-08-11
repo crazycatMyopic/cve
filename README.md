@@ -1,4 +1,4 @@
-#CVE
+# CVE
 ----
 
 ## Problem statement: [Stackoverflow](https://stackoverflow.com/questions/78859050/common-vulnerabilities-and-exposures-during-docker-build/78859174?noredirect=1#comment139035998_78859174)
